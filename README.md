@@ -174,4 +174,4 @@ python pipeline_generation_script.py\
 
 This repo contains code that's based on the following repos
 
-NeRF2Physics(https://github.com/ajzhai/NeRF2Physics)
+NeRF2Physics[https://github.com/ajzhai/NeRF2Physics]
