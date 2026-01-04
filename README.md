@@ -4,7 +4,7 @@ Hoang Le, Elkhan Ismayilzada, Joonwoo Kwon, Yufei Zhang, Zijun Cui
 ![Qualitative1](assets/qualitative%20(1).png)
 ![Qualitative2](assets/Visualization2%20(3)%201%20(1).png)
 
-![Quantitative](assets/quantitative.png)
+![Quantitative](assets/siphy_mass.png)
 ![Quantitative2](assets/material_siphy.png)
 ## Requirements
 ### Installing Dependencies
