@@ -5,7 +5,7 @@ Hoang Le, Elkhan Ismayilzada, Joonwoo Kwon, Yufei Zhang, Zijun Cui
 ![Qualitative2](assets/Visualization2%20(3)%201%20(1).png)
 
 ![Quantitative](assets/quantitative.png)
-
+![Quantitative2](assets/material_siphy.png)
 ## Requirements
 ### Installing Dependencies
 Our method operates on the extracted depth maps/point cloud (which we provide in our dataset). The only things you need to do are 1) [install PyTorch](https://pytorch.org/get-started/locally/), 2) run
