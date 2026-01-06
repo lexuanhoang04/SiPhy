@@ -1,5 +1,6 @@
 # SiPhy: Single Image Physical Property Reasoning
 Hoang Le, Elkhan Ismayilzada, Joonwoo Kwon, Yufei Zhang, Zijun Cui
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue.svg)](https://drive.google.com/file/d/1fN2MFvkPzkfr7bouEJ59voNFNnB9Zs9_/view?usp=sharing)
 
 ![Qualitative1](assets/qualitative%20(1).png)
 ![Qualitative2](assets/Visualization2%20(3)%201%20(1).png)
